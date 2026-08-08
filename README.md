@@ -1,4 +1,4 @@
-💫 About Me:
+## 💫 About Me:
 
 1. Core Programming & DSA
     Languages: Java (for robust backend/Android) and C++ (for Competitive Programming).
